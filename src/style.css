@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+h1 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.container {
+  padding-top: 10px;
+}
